@@ -3,7 +3,7 @@
 This is a new repository for an MCP server.
 
 
-# mcp-clinet
+# mcp-client
 
 Set up in Cherry Studio for MCP server
 - local with stdio
@@ -11,4 +11,6 @@ Set up in Cherry Studio for MCP server
 
 # run server
 
+```
 uv --directory {PROJECT_DIR} run main.py
+```
